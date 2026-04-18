@@ -1,5 +1,3 @@
-Here is the high-impact, manager-level README for your Sales Forecasting project. It highlights the transition from simple data tracking to predictive modeling using Python and Prophet.
-
 📈 12-Month Sales Forecasting: Predictive Strategy via FB Prophet
 📌 Executive Summary
 This project shifts the business from reactive reporting to proactive planning. By implementing a Facebook Prophet forecasting model, I analyzed four years of historical sales data (2014-2017) to generate a statistically sound 12-month rolling forecast. This enables leadership to anticipate market fluctuations, optimize inventory, and set data-backed revenue targets for the 2018 fiscal year.
